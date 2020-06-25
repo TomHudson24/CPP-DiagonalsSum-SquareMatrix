@@ -1,0 +1,5 @@
+﻿  diagonalDifference.cpp
+C:\Users\Tom\source\repos\AbsofSumOfDiagonalsInSquareMatrix\AbsofSumOfDiagonalsInSquareMatrix\diagonalDifference.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  AbsofSumOfDiagonalsInSquareMatrix.vcxproj -> C:\Users\Tom\source\repos\AbsofSumOfDiagonalsInSquareMatrix\Debug\AbsofSumOfDiagonalsInSquareMatrix.exe
